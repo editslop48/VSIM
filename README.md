@@ -1,3 +1,4 @@
+-# Note: basically everything in this repository is vibecoded, so uh.. if you don't like that then.. I don't know, use other stuff.
 # Variational Structural Image Morpher
 
 A single-file desktop app (**Tkinter + PyTorch + Pillow**) that trains locally on
